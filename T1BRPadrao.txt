@@ -1,0 +1,1093 @@
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.2ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (75ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 1.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0%  Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+
+
+
+
+Média do tempo de trajeto completo da rede (max.): 50ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (65ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% j Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% j Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (55ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.2ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (78ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 52ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 2.2ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 52ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.9ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% j Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.1ms
+
+Média do tempo de trajeto completo da rede (max.): 54ms (66ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 4.8ms
+
+Média do tempo de trajeto completo da rede (max.): 52ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 2.1ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0%  Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+
+Média do tempo de trajeto completo da rede (max.): 50ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (55ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacao de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (54ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 75ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 8.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.8ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (56ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 1.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (55ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% j Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.9ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0%  Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacao de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (61ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (56ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (54ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacao de tempo de trajeto completo da rede: 0.5ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.2ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.2ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 1.1ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.0ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.9ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.7ms
+
+
+Média do tempo de trajeto completo da rede (max.): 50ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% jPerdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (75ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (54ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.9ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.2ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms)
+
+Perda de pacotes: 0%
+
+Perda de pacotes de entrada: 0%
+
+Perda de pacotes de saida: 0%
+
+Oscilac vu
+
++
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacao de tempo de trajeto completo da rede: 0.5ms
+
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.2ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.9ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+
+Média do tempo de trajeto completo da rede (max.): 50ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0%  Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.3ms
+
+Média do tempo de trajeto completo da rede (max.): 52ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0%  Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 53ms (56ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 1.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0%  Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 52ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 1.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.9ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (54ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 1.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (54ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (55ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% jPerdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacao de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.2ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 52ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 2.2ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (57ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacao de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.1ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (56ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+
+Média do tempo de trajeto completo da rede (max.): 53ms (61ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 5.6ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 52ms (56ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% jPerdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 1.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 61ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 7.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.9ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 1.2ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (64ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (55ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% j Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (76ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacao de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.2ms
+
+Média do tempo de trajeto completo da rede (max.): 52ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 1.2ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.9ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 1.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacao de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacao de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (76ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.2ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.2ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.2ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% j Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 52ms (52ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 2.2ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (52ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (56ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacao de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.2ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.9ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilac
+
+Média do tempo de trajeto completo da rede (max.): 52ms (89ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 1.8ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 52ms (55ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 1.9ms
+
+Média do tempo de trajeto completo da rede (max.): 52ms (59ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 1.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (55ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 1.4ms
+
+Média do tempo de trajeto completo da rede (max.): 52ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 1.9ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.9ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 1.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (54ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.2ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 1.0ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacao de tempo de trajeto completo da rede: 0.5ms
+
+“4édia d- ternmpo~e trajeto comr'etu da ~-2de {m*x.): 351ms (51ms) Pr-daderaccves:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+
+Média do tempo de trajeto completo da rede (max.): 50ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.2ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.1ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (54ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (58ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (54ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 1.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0%  Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (56ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% jPerdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.9ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% jPerdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.2ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% jPerdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.1ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (53ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0%  Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0%  Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (54ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.9ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (50ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 1.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.9ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.2ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacdo de tempo de trajeto completo da rede: 0.8ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (50ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.2ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (54ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% j Oscilacdo de tempo de trajeto completo da rede: 1.1ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.4ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
+
+Média do tempo de trajeto completo da rede (max.): 50ms (82ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.3ms
+
+Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacdo de tempo de trajeto completo da rede: 0.7ms
+
+Média do tempo de trajeto completo da rede (max.): 52ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 2.7ms
+
