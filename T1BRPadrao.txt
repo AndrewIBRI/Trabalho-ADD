@@ -24,12 +24,7 @@ Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0
 
 Média do tempo de trajeto completo da rede (max.): 51ms (51ms) Perdadepacotes:0%  Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0%  Oscilacado de tempo de trajeto completo da rede: 0.4ms
 
-
 Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.5ms
-
-
-
-
 
 Média do tempo de trajeto completo da rede (max.): 50ms (53ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.6ms
 
@@ -412,17 +407,6 @@ Média do tempo de trajeto completo da rede (max.): 51ms (52ms) Perdadepacotes:0
 
 Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% # Perdadepacotesdeentrada:0% #Perdadepacotesdesaida:0% Oscilacado de tempo de trajeto completo da rede: 0.4ms
 
-Média do tempo de trajeto completo da rede (max.): 50ms (51ms)
-
-Perda de pacotes: 0%
-
-Perda de pacotes de entrada: 0%
-
-Perda de pacotes de saida: 0%
-
-Oscilac vu
-
-+
 
 Média do tempo de trajeto completo da rede (max.): 50ms (51ms) Perdadepacotes:0% #Perdadepacotesdeentrada:0% # Perdadepacotesdesaida:0% Oscilacao de tempo de trajeto completo da rede: 0.5ms
 

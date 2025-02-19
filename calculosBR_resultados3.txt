@@ -1,0 +1,15 @@
+Média do Tempo Máximo: 98.65 ms
+Média da Perda de Pacote: 10.00%
+Média da Oscilação: 0.80 ms
+Média do Tempo de Trajeto Completo: 100.546321841849
+
+Desvio Padrão do Tempo Máximo: 4.78 ms
+Desvio Padrão da Perda de Pacote: 10.00%
+Desvio Padrão da Oscilação: 0.87 ms
+Desvio Padrão do Tempo de Trajeto Completo: 2.64698454168463
+
+Maior Tempo de Trajeto Completo: 118 ms
+Menor Tempo de Trajeto Completo: 81 ms
+
+Maior Oscilação do Tempo de Trajeto: 24.5 ms
+Menor Oscilação do Tempo de Trajeto: 0.1 ms
