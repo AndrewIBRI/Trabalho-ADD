@@ -1,91 +1,134 @@
 import re
-import math
+import numpy as np
+import scipy.stats as stats
+import matplotlib.pyplot as plt
 
-# Arquivos de entrada e saída
-arquivo_entrada = 'T3NAPadrao.txt'  # Nome correto do arquivo de entrada
-arquivo_saida_dados = 'dadosNA_filtrados.txt'  # Arquivo para os dados filtrados
-arquivo_saida_calculos = 'calculosNA_resultados.txt'  # Arquivo para os resultados dos cálculos (média e desvio padrão)
+# Defina o nome do arquivo manualmente aqui
+NOME_ARQUIVO = "NAPadrao100.txt"
 
-# Variáveis para acumular os valores e realizar os cálculos
-tempo_max_total = 0
-perda_pacotes_total = 0
-oscilacao_total = 0
-contador = 0  # Para contar quantas linhas foram processadas
+def extrair_metricas(linha):
+    """Extrai Ping, perda de pacotes e Jitter da linha fornecida."""
+    padrao = re.compile(r'Média do tempo de trajeto completo da rede .*?: (\d+)ms \((\d+)ms\) '
+                         r'Perda\s*de\s*pacotes:\s*(\d+)%\s* '
+                         r'Oscil(?:a[cç][aã]o|acado|acdo)\s*de\s*tempo\s*de\s*trajeto\s*completo\s*da\s*rede:\s*([\d.]+)ms',
+                         re.IGNORECASE)
+    
+    match = padrao.search(linha)
+    if match:
+        ping_tempo_real = int(match.group(1))
+        ping_medio = int(match.group(2))
+        perda_pacotes = int(match.group(3))
+        jitter = float(match.group(4))
+        return ping_tempo_real, ping_medio, perda_pacotes, jitter
+    return None
 
-# Para calcular o desvio padrão
-tempo_max_quadrado_diff = 0
-perda_pacotes_quadrado_diff = 0
-oscilacao_quadrado_diff = 0
+def calcular_estatisticas(valores):
+    """Calcula estatísticas principais e intervalo de confiança de 99%."""
+    if not valores:
+        return None, None, None, None
+    
+    min_valor = min(valores)
+    max_valor = max(valores)
+    media = np.mean(valores)
+    desvio_padrao = np.std(valores, ddof=1) if len(valores) > 1 else 0
+    
+    n = len(valores)
+    if n > 1:
+        t_critico = stats.t.ppf(0.995, df=n-1)  # t-distribuição para 99%
+        margem_erro = t_critico * (desvio_padrao / np.sqrt(n))
+        intervalo_confianca = (media - margem_erro, media + margem_erro)
+    else:
+        intervalo_confianca = (media, media)
+    
+    return min_valor, max_valor, media, intervalo_confianca
 
-# Limpa o arquivo de saída antes de escrever novos dados
-with open(arquivo_saida_dados, 'w', encoding='utf-8') as f_out:
-    # Escreve o cabeçalho do arquivo de saída (colunas)
-    f_out.write("Tempo Max | Perda de Pacote | Oscilação de Tempo de Trajeto Completo da Rede\n")
+def gerar_graficos(dados_ping, dados_jitter_perda, nome_arquivo):
+    """Gera dois gráficos separados para ping e para jitter/perda de pacotes."""
+    
+    fig, axs = plt.subplots(2, 1, figsize=(12, 10))
+    
+    def adicionar_textos(ax, categorias, valores, erros):
+        for i, (cat, val, erro) in enumerate(zip(categorias, valores, erros)):
+            texto = f'{val:.2f}'
+            if erro[0] is not None:
+                texto += f'\nIC99%: ({val - erro[0]:.2f}, {val + erro[1]:.2f})'
+            ax.text(val, i, texto, ha='left', va='center', fontsize=10, color='black', fontweight='bold')
+    
+    # Gráfico de Ping
+    categorias_ping = list(dados_ping.keys())
+    valores_ping = [dados_ping[cat][2] for cat in categorias_ping]
+    erros_ping = [(dados_ping[cat][2] - dados_ping[cat][3][0] if dados_ping[cat][3] else 0, 
+                   dados_ping[cat][3][1] - dados_ping[cat][2] if dados_ping[cat][3] else 0) 
+                  for cat in categorias_ping]
+    erro_baixo_ping, erro_alto_ping = zip(*erros_ping)
+    
+    axs[0].barh(categorias_ping, valores_ping, xerr=[erro_baixo_ping, erro_alto_ping], capsize=10, color='skyblue', alpha=0.7)
+    axs[0].set_title(f"Métricas de Ping ({nome_arquivo}) Para 99%")
+    axs[0].grid(axis='x', linestyle='--', alpha=0.7)
+    adicionar_textos(axs[0], categorias_ping, valores_ping, erros_ping)
+    
+    # Gráfico de Jitter e Perda de Pacotes
+    categorias_jp = list(dados_jitter_perda.keys())
+    valores_jp = [dados_jitter_perda[cat][2] for cat in categorias_jp]
+    erros_jp = [(dados_jitter_perda[cat][2] - dados_jitter_perda[cat][3][0] if dados_jitter_perda[cat][3] else 0, 
+                 dados_jitter_perda[cat][3][1] - dados_jitter_perda[cat][2] if dados_jitter_perda[cat][3] else 0) 
+                for cat in categorias_jp]
+    erro_baixo_jp, erro_alto_jp = zip(*erros_jp)
+    
+    axs[1].barh(categorias_jp, valores_jp, xerr=[erro_baixo_jp, erro_alto_jp], capsize=10, color='lightcoral', alpha=0.7)
+    axs[1].set_title(f"Métricas de Jitter e Perda de Pacotes ({nome_arquivo}) Para 99%")
+    axs[1].grid(axis='x', linestyle='--', alpha=0.7)
+    adicionar_textos(axs[1], categorias_jp, valores_jp, erros_jp)
+    
+    plt.tight_layout()
+    plt.savefig(f"Metricas_{nome_arquivo.replace('.txt', '')}.png")
+    plt.close()
 
-# Leitura e filtragem das informações
-with open(arquivo_entrada, 'r', encoding='utf-8') as f_in:
-    for linha in f_in:
-        # Vamos imprimir a linha para garantir que estamos lendo corretamente
-        print("Linha lida:", linha)  # Verifique a linha lida
-        
-        # Filtrando cada informação usando expressões regulares
-        tempo_max = re.search(r'\((\d+ms)\)', linha)  # Tempo entre parênteses
-        perda_pacotes = re.search(r'Perdadepacotes:(\d+)%', linha)  # Perda de pacotes
-        oscilacao = re.search(r'Oscilac(?:ado|do)?\s*de\s*tempo\s*de\s*trajeto\s*completo\s*da\s*rede?:\s*([\d]+ms|\d+\.\d+ms)', linha)
+def processar_arquivo(nome_arquivo):
+    """Lê o arquivo e processa os dados."""
+    ping_tempo_real_valores = []
+    ping_medio_valores = []
+    perda_pacotes_valores = []
+    jitter_valores = []
+    
+    try:
+        with open(nome_arquivo, 'r', encoding='utf-8') as f:
+            for linha in f:
+                dados = extrair_metricas(linha)
+                if dados:
+                    ping_tempo_real_valores.append(dados[0])
+                    ping_medio_valores.append(dados[1])
+                    perda_pacotes_valores.append(dados[2])
+                    jitter_valores.append(dados[3])
+    except FileNotFoundError:
+        print(f"Erro: O arquivo '{nome_arquivo}' não foi encontrado.")
+        return
+    except UnicodeDecodeError:
+        print(f"Erro de codificação ao ler '{nome_arquivo}'. Tente converter para UTF-8.")
+        return
+    
+    if not ping_tempo_real_valores:
+        print(f"Erro: Nenhuma métrica válida foi encontrada no arquivo '{nome_arquivo}'.")
+        return
+    
+    stats_ping_real = calcular_estatisticas(ping_tempo_real_valores)
+    stats_ping_medio = calcular_estatisticas(ping_medio_valores)
+    stats_perda_pacotes = calcular_estatisticas(perda_pacotes_valores)
+    stats_jitter = calcular_estatisticas(jitter_valores)
+    
+    dados_ping = {
+        "Ping Máx": (None, None, stats_ping_real[1], None),
+        "Ping Mín": (None, None, stats_ping_real[0], None),
+        "Ping Médio": stats_ping_medio,
+    }
+    
+    dados_jitter_perda = {
+        "Perda de Pacotes": stats_perda_pacotes,
+        "Jitter Máx": (None, None, stats_jitter[1], None),
+        "Jitter Mín": (None, None, stats_jitter[0], None),
+        "Jitter Médio": stats_jitter
+    }
+    
+    gerar_graficos(dados_ping, dados_jitter_perda, nome_arquivo)
 
-        linha_filtrada = []
-
-        if tempo_max:
-            tempo_max_value = int(tempo_max.group(1).replace('ms', ''))
-            tempo_max_total += tempo_max_value
-            tempo_max_quadrado_diff += (tempo_max_value - tempo_max_total / (contador + 1)) ** 2  # Acumula a soma dos quadrados das diferenças
-            linha_filtrada.append(f"{tempo_max_value}ms")
-        
-        if perda_pacotes:
-            perda_pacotes_value = int(perda_pacotes.group(1))  # Perda de pacotes como inteiro
-            perda_pacotes_total += perda_pacotes_value
-            perda_pacotes_quadrado_diff += (perda_pacotes_value - perda_pacotes_total / (contador + 1)) ** 2  # Soma dos quadrados das diferenças
-            linha_filtrada.append(f"Perda de Pacote:{perda_pacotes_value}%")
-        
-        if oscilacao:
-            oscilacao_value = float(oscilacao.group(1).replace('ms', ''))  # Oscilação como float
-            oscilacao_total += oscilacao_value
-            oscilacao_quadrado_diff += (oscilacao_value - oscilacao_total / (contador + 1)) ** 2  # Soma dos quadrados das diferenças
-            # Corrigindo o erro de digitação e formatando
-            oscilacao_texto = oscilacao.group(0).replace("Oscilacdo", "Oscilação").replace("Oscilacado", "Oscilação")
-            oscilacao_texto = oscilacao_texto.replace("darede", "da rede")
-            linha_filtrada.append(oscilacao_texto)
-
-        # Se encontrou alguma informação, salva no arquivo de saída de dados
-        if linha_filtrada:
-            with open(arquivo_saida_dados, 'a', encoding='utf-8') as f_out:
-                f_out.write(" | ".join(linha_filtrada) + "\n")
-            
-            # Incrementa o contador
-            contador += 1
-
-# Cálculos das médias e desvios padrão
-if contador > 0:
-    media_tempo_max = tempo_max_total / contador
-    media_perda_pacotes = perda_pacotes_total / contador
-    media_oscilacao = oscilacao_total / contador
-
-    # Cálculo do desvio padrão
-    desvio_tempo_max = math.sqrt(tempo_max_quadrado_diff / contador)
-    desvio_perda_pacotes = math.sqrt(perda_pacotes_quadrado_diff / contador)
-    desvio_oscilacao = math.sqrt(oscilacao_quadrado_diff / contador)
-
-    # Salva os cálculos em um novo arquivo de texto
-    with open(arquivo_saida_calculos, 'w', encoding='utf-8') as f_calculos:
-        f_calculos.write(f"Média do Tempo Máximo: {media_tempo_max:.2f} ms\n")
-        f_calculos.write(f"Média da Perda de Pacote: {media_perda_pacotes:.2f}%\n")
-        f_calculos.write(f"Média da Oscilação: {media_oscilacao:.2f} ms\n\n")
-        f_calculos.write(f"Desvio Padrão do Tempo Máximo: {desvio_tempo_max:.2f} ms\n")
-        f_calculos.write(f"Desvio Padrão da Perda de Pacote: {desvio_perda_pacotes:.2f}%\n")
-        f_calculos.write(f"Desvio Padrão da Oscilação: {desvio_oscilacao:.2f} ms\n")
-else:
-    print("Nenhuma linha válida foi encontrada para cálculo.")
-
-print("Filtragem e cálculos concluídos! Confira os arquivos:")
-print(f"- Dados filtrados: {arquivo_saida_dados}")
-print(f"- Cálculos (média e desvio padrão): {arquivo_saida_calculos}")
+processar_arquivo(NOME_ARQUIVO)

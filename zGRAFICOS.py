@@ -2,7 +2,7 @@ import re
 import matplotlib.pyplot as plt
 
 # Nome do arquivo contendo os dados
-arquivo_entrada = "calculosNA_resultados2.txt"
+arquivo_entrada = "calculosNA_resultados1.txt"
 
 # Expressões regulares para capturar os valores numéricos
 regex_valores = {

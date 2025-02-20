@@ -71,7 +71,7 @@ def capture_and_ocr(region, output_file):
 region = (0, 0, 3000, 30)  # x=0, y=20, largura=870, altura=100
 
 # Defina o nome do arquivo .txt de saída
-output_file = "T1BREXIT.txt"
+output_file = "NAExit200.txt"
 
 # Executa a captura e OCR em tempo real
 capture_and_ocr(region, output_file)

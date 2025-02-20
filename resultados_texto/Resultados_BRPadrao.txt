@@ -1,0 +1,10 @@
+=== Estatísticas de Ping ===
+Ping Máx: (49, 50, np.float64(49.15), None)
+Ping Mín: (49, 50, None)
+Ping Médio: (49, 49, np.float64(49.0), (np.float64(49.0), np.float64(49.0)))
+
+=== Estatísticas de Jitter e Perda de Pacotes ===
+Perda de Pacotes: (0, 0, np.float64(0.0), (np.float64(0.0), np.float64(0.0)))
+Jitter Máx: (0.1, 1.0, np.float64(0.37499999999999994), None)
+Jitter Mín: (0.1, 1.0, None)
+Jitter Médio: (0.1, 1.0, np.float64(0.37499999999999994), (np.float64(0.1930199856301924), np.float64(0.5569800143698075)))

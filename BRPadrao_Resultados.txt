@@ -1,0 +1,6 @@
+Arquivo: BRPadrao.txt
+Ping Tempo Real -> Mínimo: 49ms, Máximo: 50ms, Média: 49.15ms, IC 99%: (np.float64(48.9156385248277), np.float64(49.3843614751723))
+Ping Médio -> Média: 49.0ms, IC 99%: (np.float64(49.0), np.float64(49.0))
+Perda de Pacotes -> Média: 0.0%, IC 99%: (np.float64(0.0), np.float64(0.0))
+Jitter -> Mínimo: 0.1ms, Máximo: 1.0ms, Média: 0.37499999999999994ms, IC 99%: (np.float64(0.1930199856301924), np.float64(0.5569800143698075))
+--------------------------------------------------------------------------------
